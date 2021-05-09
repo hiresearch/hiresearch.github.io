@@ -1,10 +1,11 @@
-# Hi Homepage
+# Hi Research
 
 参考[GreatDanton](https://github.com/GreatDanton) 项目，丢弃庞杂丑陋的浏览器收藏夹， 打造简洁科研浏览器首页。
 
 每个人都可以自定义自己的浏览器首页，替换默认浏览器首页/起始页。 该项目可在任何现代浏览器上运行，只需将index.html设置为主页并添加自己的链接
 到index.html
 
+[**查看效果**](https://hiresearch.github.io/)
 <br>
 
 
