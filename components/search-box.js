@@ -27,6 +27,7 @@ search_box.onkeypress = function(e) {
 // ** BANGS **
 // shortcuts to common websites
 var queries = {
+    "!baidu": "https://www.baidu.com/s?wd=",
     "!scholar": "https://scholar.google.com/scholar?q=",
     "!mail": "https://mail.qq.com/",
     "!youtube": "https://www.youtube.com/results?search_query=",
