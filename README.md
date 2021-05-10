@@ -184,4 +184,4 @@ That's the output of above code, if I append it to my index.html
 - [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
 
 
-![](/Users/thunderhit/Desktop/Programming/diyPython/weibo_crawler-main/img/公众号.png)
+![](screenshots/公众号.png)
