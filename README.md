@@ -32,7 +32,7 @@
 
 各位可根据自身科研或者工作需要，更改成自己的标签名，替换为自己需要的网站网址
 
-![Main page](screenshots/mainPage.png)
+![Main page](screenshots/科研.png)
 
 
 
