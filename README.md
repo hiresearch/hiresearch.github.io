@@ -32,13 +32,13 @@
 
 各位可根据自身科研或者工作需要，更改成自己的标签名，替换为自己需要的网站网址
 
-![Main page](screenshots/科研.png)
+![Main page](screenshots/科研界面.png)
 
 
 
-![](screenshots/mainPage2.png)
+![](screenshots/管理.png)
 
-![](screenshots/mainPage3.png)
+![](screenshots/摸鱼.png)
 
 日历, 在index.html中可以设置自己认为最最重要的日子
 
