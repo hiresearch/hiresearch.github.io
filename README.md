@@ -181,7 +181,7 @@ That's the output of above code, if I append it to my index.html
 
 - 公众号：大邓和他的python
 
-- [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
+- [知乎专栏：数据科学家](https://www.zhihu.com/people/hidadeng)
 
 
 ![](screenshots/公众号.png)
