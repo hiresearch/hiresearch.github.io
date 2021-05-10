@@ -76,21 +76,21 @@ Links should be added directly into `<div class="slides-container"` in index.htm
 
 ```html
 <div class="slide" name="科研">
-		<div class="part">
-			<h1> 数据库 </h1>
-      <div class="links">
-        <a href='https://scholar.google.com/'>Google Scholar</a>
-        <a href='https://webofknowledge.com/'> Web of Science </a>
-        <a href='https://search.ebscohost.com/'> EBSCO </a>
-	<a href='https://scholar.cnki.net/'> CNKI Scholar </a>
-        <a href='https://www.ssrn.com/index.cfm/en/'>SSRN</a>
-        <a href='https://www.proquest.com/site/pqdd_unavailable.shtml'> ProQuest </a>
-        <a href='https://pubsonline.informs.org/'> Informs </a>
-        <a href='https://www.emerald.com/insight/'> Emerald Insight </a>
-        <a href='https://link.springer.com/'> Springer </a>
-        <a href='http://www.cnki.net/'> 知网 </a>
+    <div class="part">
+        <h1> 数据库 </h1>
+        <div class="links">
+            <a href='https://scholar.google.com/'>Google Scholar</a>
+            <a href='https://webofknowledge.com/'> Web of Science </a>
+            <a href='https://search.ebscohost.com/'> EBSCO </a>
+	    <a href='https://scholar.cnki.net/'> CNKI Scholar </a>
+            <a href='https://www.ssrn.com/index.cfm/en/'>SSRN</a>
+            <a href='https://www.proquest.com/site/pqdd_unavailable.shtml'> ProQuest </a>
+            <a href='https://pubsonline.informs.org/'> Informs </a>
+            <a href='https://www.emerald.com/insight/'> Emerald Insight </a>
+            <a href='https://link.springer.com/'> Springer </a>
+            <a href='http://www.cnki.net/'> 知网 </a>
       </div>
-  </div>
+   </div>
 </div>
 ```
 
