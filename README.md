@@ -72,7 +72,6 @@
 # 三、添加链接
 网站链接需要直接加到index.html的 ``<div class="slides-container"``标签内，以学术生活如下
 
-Links should be added directly into `<div class="slides-container"` in index.html page. See below:
 
 ```html
 <div class="slide" name="科研">
@@ -94,7 +93,6 @@ Links should be added directly into `<div class="slides-container"` in index.htm
 </div>
 ```
 
-That's the output of above code, if I append it to my index.html
 
 ![Above code output](screenshots/数据库.png)
 
