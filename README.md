@@ -75,21 +75,20 @@
 Links should be added directly into `<div class="slides-container"` in index.html page. See below:
 
 ```html
-<div class="slide" name="科研生活">
+<div class="slide" name="科研">
 		<div class="part">
-			<h1> 经常使用 </h1>
+			<h1> 数据库 </h1>
       <div class="links">
         <a href='https://scholar.google.com/'>Google Scholar</a>
+        <a href='https://webofknowledge.com/'> Web of Science </a>
+        <a href='https://search.ebscohost.com/'> EBSCO </a>
+	<a href='https://scholar.cnki.net/'> CNKI Scholar </a>
         <a href='https://www.ssrn.com/index.cfm/en/'>SSRN</a>
         <a href='https://www.proquest.com/site/pqdd_unavailable.shtml'> ProQuest </a>
-        <a href='https://scholar.cnki.net/'> CNKI Scholar </a>
         <a href='https://pubsonline.informs.org/'> Informs </a>
         <a href='https://www.emerald.com/insight/'> Emerald Insight </a>
         <a href='https://link.springer.com/'> Springer </a>
-        <a href='https://search.ebscohost.com/'> EBSCO </a>
         <a href='http://www.cnki.net/'> 知网 </a>
-        <a href='https://webofknowledge.com/'> Web of Science </a>
-        <a href='https://www.grammarly.com/'> Grammarly </a>
       </div>
   </div>
 </div>
@@ -97,7 +96,7 @@ Links should be added directly into `<div class="slides-container"` in index.htm
 
 That's the output of above code, if I append it to my index.html
 
-![Above code output](screenshots/addingLinks_img.png)
+![Above code output](screenshots/数据库.png)
 
 
 
