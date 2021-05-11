@@ -9,9 +9,7 @@
 
 # [**查看效果 https://hiresearch.github.io/**](https://hiresearch.github.io/)
 
-B站演示视频  https://www.bilibili.com/video/BV1eK4y197x9/
-
-[![HiResearch](screenshots/科研界面.png)](https://www.bilibili.com/video/BV1eK4y197x9/)
+[![HiResearch](screenshots/bilibili.png)](https://www.bilibili.com/video/BV1eK4y197x9/)
 
 <br>
 
