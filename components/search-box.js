@@ -1,6 +1,6 @@
 // SEARCH BOX - contains code (logic) for search box on the front page
 
-var ENGINE = "google"; // google or ddg
+var ENGINE = "baidu"; // google or ddg
 var search_box = document.getElementsByClassName('search-box')[0];
 var search_parent = search_box.parentNode;
 
@@ -38,12 +38,15 @@ var queries = {
     "!github": "https://github.com/search?q=",
     "!book": "https://www.douban.com/search?cat=1001&q=",
     "!movie": "https://www.douban.com/search?cat=1002&q=",
+    "!g": "https://www.google.com/search?&q=",
+    "!google": "https://www.google.com/search?&q=",
 };
 
 
 var searchEngines = {
     "google": "https://www.google.com/search?&q=",
     "ddg": "https://duckduckgo.com/?q=",
+    "baidu": "https://www.baidu.com/s?wd=",
 };
 
 
