@@ -13,7 +13,7 @@ search_box.onkeypress = function(e) {
     if (!e) e = window.event;
     var keyCode = e.keyCode || e.which;
 
-    // if enter key is pressed
+    // if enter key is pressedopen
     if (keyCode == '13') {
         // open www.google.com#q=   search_value
         var query = search_box.value;
@@ -64,13 +64,13 @@ function checkBangs(query) {
         // ebay got fucked up search query, wtf ...
         if (withoutSearch.indexOf(bangPart) == -1) {
             query = createQuery(query_arr.slice(1).join(' '));
-            window.location = queries[bangPart] + query;
+            window.open(queries[bangPart] + query, '_black');
         } else {
-            window.location = queries[bangPart];
+            window.open(queries[bangPart], '_black');
         }
     } else {
         query = createQuery(query);
-        window.location = search_engine + query;
+        window.open(search_engine + query, '_black');
     }
 }
 
