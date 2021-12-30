@@ -111,6 +111,8 @@
 
     | 搜索框命令 | 目标网站 | 例子 | 作用 |
     | -------- | --------- | -------   | -------- |
+    | !w | https://whoogle.sdf.org/ | !w python | 在whoogle里搜python|
+    | !p | google scholar | !p python | 在谷歌学术中搜**python**相关信息 |
     | !scholar | google scholar | !scholar python | 在谷歌学术中搜**python**相关信息 |
     | !book   | 豆瓣读书 | !book python | 在豆瓣读书中搜**python**相关书籍信息 |
     | !movie | 豆瓣电影 | !movie 悬崖之上 | 在豆瓣电影中搜**悬崖之上**相关电影信息 |
