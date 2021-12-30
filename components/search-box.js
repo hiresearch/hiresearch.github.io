@@ -29,6 +29,7 @@ search_box.onkeypress = function(e) {
 var queries = {
     "!baidu": "https://www.baidu.com/s?wd=",
     "!scholar": "https://scholar.google.com/scholar?q=",
+    "!p": "https://scholar.google.com/scholar?q=",
     "!mail": "https://mail.qq.com/",
     "!youtube": "https://www.youtube.com/results?search_query=",
     "!taobao": "https://s.taobao.com/search?q=",
@@ -40,6 +41,7 @@ var queries = {
     "!movie": "https://www.douban.com/search?cat=1002&q=",
     "!g": "https://www.google.com/search?&q=",
     "!google": "https://www.google.com/search?&q=",
+    "!w": "https://whoogle.sdf.org/search?q=",
 };
 
 
